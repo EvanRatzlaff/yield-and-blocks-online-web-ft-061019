@@ -8,6 +8,7 @@ def hello_t
     array
   else
     puts "no block given"
+  end
 end
 
 # call your method here!
