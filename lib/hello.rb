@@ -1,7 +1,7 @@
-def hello_t
-  hello_t(names).each do |name| 
-    puts "Hi, #{name}"
+def hello_t(array)
+  i = 0
+  while i < array.length
+  i = i + 1
   end
-  
 
 end
